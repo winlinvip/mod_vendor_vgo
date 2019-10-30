@@ -1,5 +1,5 @@
-package mod_gopath
+package mod_vendor
 
 func Version() string {
-	return "mgp/1.0.0"
+	return "mgp/1.0.2"
 }
